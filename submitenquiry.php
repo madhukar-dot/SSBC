@@ -1,7 +1,7 @@
 <?php
 $to = 'Madhukare@r3htechnologies.com';
 $subject = 'Searching for Appliances';
-$from = 'E-mail Address';
+$from = 'eragonimadhukar@gmail.com';
  
 // To send HTML mail, the Content-type header must be set
 $headers  = 'MIME-Version: 1.0' . "\r\n";
